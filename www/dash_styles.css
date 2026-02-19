@@ -1,0 +1,52 @@
+.card-painel {
+  border-radius: 15px;
+  background: rgba(255, 255, 255, 0.7);
+  border: none;
+  backdrop-filter: blur(8px);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+}
+
+.card-titulo {
+  color: #000a63 !important;
+  font-weight: bold;
+  font-size: 1.041667vw;
+}
+
+.input-painel {
+  font-size: 18px;
+  color: #000a63;
+  font-weight: bold;
+}
+
+.value-box-painel {
+  border-radius: 15px;
+  background: rgba(255, 255, 255, 0.7);
+  border: none;
+  box-shadow: none;
+  backdrop-filter: blur(8px);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+  min-height: 14.81481vh;
+}
+
+.sw-air-picker.form-control {
+  font-weight: bold !important;
+  color: #27307a !important;
+}
+
+.filter-option-inner-inner {
+  font-weight: bold;
+  color: #27307a;
+}
+
+.btn.dropdown-toggle.btn-light {
+  background-color: #e8ebed !important;
+  border-color: #a2a7c4 !important;
+}
+
+.shiny-output-error-validation {
+  color: black !important;
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 20px;
+}
+
